@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thesahinmolla
+- 👋 *Hi*, I’m [@thesahinmolla](https://github.com/thesahinmolla)
 - 👀 I’m interested in collaborating 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
